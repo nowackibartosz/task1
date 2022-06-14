@@ -1,0 +1,77 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  height: 10%;
+  min-height: fit-content;
+}
+
+.profile-parent {
+  display: flex;
+  text-align: center;
+}
+
+.profile-details-name {
+  font-size: 34px;
+}
+
+.profile-text {
+  margin: 14px 0 24px 0;
+}
+
+.profile-text h1 {
+  min-height: 400px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.primary-text {
+  color: var(--white);
+}
+
+.highlighted-text {
+  color: var(--light-blue);
+}
+
+.colz .colz-icon i {
+  color: white;
+  padding: 8px;
+  padding-left: 0;
+}
+
+.colz .colz-icon i:hover {
+  transform: scale(1.5);
+}
+
+@media screen and (max-width: 1110px) {
+  .profile-details-name {
+    font-size: 20px;
+  }
+
+  .profile-text .primary-text {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 810px) {
+  .profile-parent {
+    flex-direction: column-reverse;
+    margin: 40px 0 0 0;
+  }
+
+  .profile-details {
+    margin: 25px 0 0 0;
+  }
+
+  .profile-details-role {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .profile-details {
+    width: 90%;
+  }
+}
