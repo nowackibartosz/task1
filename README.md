@@ -57,18 +57,23 @@ $ npm start
 # Features
 
 - part About Me
-  ![home](./img/page.png)
-  </br>
+
+  ![page](./img/page.png)
+
 
 - Smooth Scrolling and Fade In Animation
-  </br>
+
+
 - Fancy social-media button
-  ![home](./img/icon.png)
-  </br>
+
+  ![icon](./img/icon.png)
+ 
 
 - Items of array from API
-  ![home](./img/arr.png
-  </br>
+
+  ![arr](./img/arr.png)
+ 
+ 
 - Implemented Email functionality using node mailer.
 
 <br>
