@@ -27,8 +27,8 @@ I lost the instructions task, but it was something like this:
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Features](#features))
-- [Project Status](#ProjectS)
+- [Features](#features)
+- [Project Status](#Projects)
 
   <br>
   <br>
