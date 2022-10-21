@@ -28,7 +28,7 @@ I lost the instructions task, but it was something like this:
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [Features](#features)
-- [Project Status](#Projects)
+- [Project Status](#Projects-status)
 
   <br>
   <br>
@@ -56,21 +56,20 @@ $ npm start
 
 # Features
 
-- part About Me 
-![home](./img/page.png)
-</br>
+- part About Me
+  ![home](./img/page.png)
+  </br>
 
 - Smooth Scrolling and Fade In Animation
-</br>
+  </br>
 - Fancy social-media button
   ![home](./img/icon.png)
-</br>
+  </br>
 
 - Items of array from API
- ![home](./img/arr.png
-</br>
+  ![home](./img/arr.png
+  </br>
 - Implemented Email functionality using node mailer.
-
 
 <br>
 
