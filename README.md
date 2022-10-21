@@ -72,6 +72,8 @@ $ npm start
 
 - Implemented Email functionality using node mailer.
 
+  ![icon](./img/send.png)
+
 <br>
 
 <br>
